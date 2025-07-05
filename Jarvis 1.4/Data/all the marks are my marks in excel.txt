@@ -1,0 +1,18 @@
+If you have all of your marks for each subject in an Excel spreadsheet, you can use the following steps to calculate the subject percentages:
+
+1. Make sure that all of your marks are in the same column, and that the total maximum marks for each subject are in a separate column.
+2. In a new column, next to your marks, you can use the formula =(A2/B2)\*100 to calculate the percentage for the first subject, where A2 is the cell containing the mark for the subject and B2 is the cell containing the total maximum marks for the subject.
+3. Copy the formula down the column to calculate the percentages for all of your subjects.
+4. You can then use the average function to calculate the overall grade by averaging the subject percentages.
+
+=AVERAGE(C2:Cx)
+
+Where C2:Cx is the range of cells containing the subject percentages.
+
+Please note that this is a simple way of calculating subject percentage, but it may vary depending on the grading system of your school or institution.
+
+Please let me know if you need any further assistance.
+
+Best regards,
+[Your Name]
+Content Writer.
