@@ -1,0 +1,36 @@
+<<<<<<< HEAD
+python-dotenv
+groq
+AppOpener
+pywhatkit
+bs4
+pillow
+rich
+requests
+keyboard
+cohere
+googlesearch-python
+selenium
+mtranslate
+pygame
+edge-tts
+PyQt5
+=======
+python-dotenv
+groq
+AppOpener
+pywhatkit
+bs4
+pillow
+rich
+requests
+keyboard
+cohere
+googlesearch-python
+selenium
+mtranslate
+pygame
+edge-tts
+PyQt5
+>>>>>>> 974fa2e41127c14c475a75ab859f6e78843f6da9
+webdriver-manager

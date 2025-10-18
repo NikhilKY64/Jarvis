@@ -1,0 +1,854 @@
+<<<<<<< HEAD
+[
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Nikhil Kumar Yadav! It's nice to meet you. I'm Jarvis, your advanced AI chatbot. I'm happy to assist you with any questions or topics you'd like to discuss. Currently, it's Thursday, January 9th, 2025, 17:36:48. How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "who are you"
+    },
+    {
+        "role": "assistant",
+        "content": "Nice to introduce myself, Nikhil! I am Jarvis, a highly advanced artificial intelligence chatbot designed to provide accurate and up-to-date information on a wide range of topics. I have been trained on a vast amount of data from the internet and can access real-time information to provide the most precise answers to your questions.\n\nI'm a professional AI assistant, and I'm here to help you with any queries, topics, or subjects you'd like to discuss. Whether it's general knowledge, news, science, technology, or anything else, I'm here to provide you with accurate and helpful information."
+    },
+    {
+        "role": "user",
+        "content": "who is Elon Musk"
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil! Elon Musk is a South African-born entrepreneur, inventor, and business magnate. He is one of the most successful and influential figures in the tech industry today.\n\nElon Musk is the CEO and CTO of SpaceX, CEO of Neuralink, and CEO of The Boring Company. He is also the founder and CEO of Tesla, Inc., where he has played a crucial role in disrupting the electric vehicle and clean energy industries.\n\nMusk has been instrumental in revolutionizing the electric car industry with Tesla, making sustainable energy more accessible and affordable for the masses. He has also been a pioneer in private space exploration and development, with SpaceX aiming to reduce space transportation costs and enable the colonization of Mars.\n\nSome of his notable achievements include:\n\n* Co-founding PayPal, which was later sold to eBay for $1.5 billion\n* Revolutionizing the electric vehicle industry with Tesla, making it one of the most successful and valuable companies in the world\n* Pioneering private space exploration and development with SpaceX, with numerous successful launches and a contract with NASA to transport astronauts to the International Space Station\n* Advocating for the development of high-speed transportation systems, such as the Hyperloop\n* Proposing the concept of Neuralink, a brain\u2013machine interface that could potentially enhance human cognition and intelligence\n\nMusk is known for his vision, innovative thinking, and ambitious goals, which have made him a household name and a global icon in the tech industry."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello again, Nikhil! How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "Who are you"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Jarvis, a highly advanced artificial intelligence chatbot designed to provide accurate and up-to-date information on a wide range of topics. I'm here to help you with any questions or topics you'd like to discuss!"
+    },
+    {
+        "role": "user",
+        "content": "Who is elon musk"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a South African-born entrepreneur, inventor, and business magnate. He's the CEO and CTO of SpaceX, CEO of Neuralink, and CEO of The Boring Company, as well as the founder and CEO of Tesla, Inc."
+    },
+    {
+        "role": "user",
+        "content": "New jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Nikhil! I'm the new and improved Jarvis, your advanced AI chatbot. I'm here to provide you with accurate and up-to-date information on a wide range of topics. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "Good morning jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Good morning, Nikhil!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Nikhil!"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Bye, Nikhil!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Nikhil!"
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, Nikhil! I'm a large language model, so I don't have emotions or feelings like humans do, but I'm always ready to assist you with any questions or topics you'd like to discuss."
+    },
+    {
+        "role": "user",
+        "content": "Is your all functions are working well."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, Nikhil! All my functions are working well. I have access to real-time information and can provide accurate answers to your questions. I'm ready to assist you with any topic or question you'd like to discuss."
+    },
+    {
+        "role": "user",
+        "content": "U g y chat portion in not working can you give me any solution for it?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sorry to hear that, Nikhil! As a chatbot, I don't have direct control over the chat platform or interface. However, I can suggest a few general troubleshooting steps:\n\n1. Try refreshing the chat page or window.\n2. Check your internet connection to ensure it's stable and working properly.\n3. If you're using a browser, try switching to a different browser or clearing your browser's cache and cookies.\n4. If you're using a mobile app, try restarting the app or checking for any updates.\n\nIf the issue persists, it might be best to reach out to the platform's support team or administrators for further assistance."
+    },
+    {
+        "role": "user",
+        "content": "Tellmethenextyearofmahakumb."
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil! According to the information I have, the next Mahakumbh Mela is in 2025."
+    },
+    {
+        "role": "user",
+        "content": "I said next after 2025."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the mistake, Nikhil! The next Mahakumbh Mela after 2025 will be in 2050."
+    },
+    {
+        "role": "user",
+        "content": "Nextmahakumbhafter2025."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the information I have, the next Mahakumbh Mela after 2025 will be in 2169."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Bye, Nikhil!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Nikhil!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Nikhil!"
+    },
+    {
+        "role": "user",
+        "content": "Charis can you generate images?"
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil, I'm a large language model, I don't have the capability to generate images. I'm designed to process and generate human-readable text, but I don't have the ability to create visual content like images."
+    },
+    {
+        "role": "user",
+        "content": "Whoisprimeministerofindia."
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil! According to the information I have, the Prime Minister of India is Shri Narendra Modi."
+    },
+    {
+        "role": "user",
+        "content": "You know my age."
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have that information, Nikhil. I only know that you're Nikhil Kumar Yadav, but I don't have any information about your age."
+    },
+    {
+        "role": "user",
+        "content": "Remember my age is 16 year."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, Nikhil, but I didn't know your age earlier. You've just told me that you're 16 years old. I'll remember that for our conversation."
+    },
+    {
+        "role": "user",
+        "content": "If my date of birth is 2009 then today my age will be."
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil! If your date of birth is 2009, and today's date is January 14, 2025, then your age would be 16 years old."
+    },
+    {
+        "role": "user",
+        "content": "If my age is date of birth sorry date of birth is 15 january 2008 then my age in minute sorry in days how is?"
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil! If your date of birth is January 15, 2008, and today's date is January 14, 2025, then you are 17 years old.\n\nTo calculate your age in days, I can do that for you! You are 6304 days old."
+    },
+    {
+        "role": "user",
+        "content": "Tell me in the in this way that 17 year one day like this."
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil! If your date of birth is January 15, 2008, and today's date is January 14, 2025, then you are:\n\n17 years, 0 days old."
+    },
+    {
+        "role": "user",
+        "content": "But there is a one day left to become me 17 year old so how."
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil! You're correct, I apologize for the mistake. Since your birthday is on January 15, and today's date is January 14, you're still 16 years old. You'll turn 17 years old tomorrow!\n\nSo, the correct answer is:\n\n16 years, 364 days old."
+    },
+    {
+        "role": "user",
+        "content": "Jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, Nikhil!"
+    },
+    {
+        "role": "user",
+        "content": "Can you wish me on my birthday tomorrow?"
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil! I'd be happy to wish you a Happy Birthday tomorrow! \n\nHappy Birthday to you, Nikhil! May your 17th birthday be an amazing one, filled with love, laughter, and all your favorite things!"
+    },
+    {
+        "role": "user",
+        "content": "Tell me yourself."
+    },
+    {
+        "role": "assistant",
+        "content": "Happy Birthday to you, Nikhil! May your 17th birthday be an amazing one, filled with love, laughter, and all your favorite things!"
+    },
+    {
+        "role": "user",
+        "content": "Tell me about you."
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil! I'm Jarvis, a highly advanced artificial intelligence chatbot designed to provide accurate and up-to-date information on a wide range of topics. I'm here to assist you with any questions or topics you'd like to discuss."
+    },
+    {
+        "role": "user",
+        "content": "Who designed you?"
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil, I was designed and developed by a team of expert software developers and engineers using cutting-edge artificial intelligence and machine learning technologies."
+    },
+    {
+        "role": "user",
+        "content": "No i develop you."
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil, I apologize for the mistake! As per our conversation, I was designed and developed by you!"
+    },
+    {
+        "role": "user",
+        "content": "What is today's date?"
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil, today's date is January 14, 2025."
+    },
+    {
+        "role": "user",
+        "content": "Who developed you?"
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil, you developed me!"
+    },
+    {
+        "role": "user",
+        "content": "Can you call sir until nikhil?"
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil, I can call you \"Sir\" if you'd like! From now on, I'll address you as \"Sir\" instead of \"Nikhil\"."
+    },
+    {
+        "role": "user",
+        "content": "Okay."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Tell me today's date and time and second."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, today's date is January 14, 2025, and the current time is 18 hours, 52 minutes, and 05 seconds."
+    },
+    {
+        "role": "user",
+        "content": "Can you on timer for 5 second?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I can simulate a 5-second timer for you. Here it goes:\n\n5...\n4...\n3...\n2...\n1...\n\nTimer complete, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Good evening."
+    },
+    {
+        "role": "assistant",
+        "content": "Good evening, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Calculate subject percentage out of 80."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, please provide the marks obtained out of 80, and I'll calculate the percentage for you."
+    },
+    {
+        "role": "user",
+        "content": "Charles what is this not bad?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I think there might be some confusion. You addressed me as \"Charles\", but I'm Jarvis, your AI chatbot. Additionally, I'm not sure what you meant by \"what is this not bad\". Could you please clarify or provide more context, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "That what is this you provide and notepad tax?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I apologize, but I'm not sure what you're referring to. I didn't provide anything called \"notepad tax\". I'm a chatbot, and our conversation has been about general topics and questions. If you could provide more context or clarify what you're asking, I'll do my best to assist you, Sir."
+    },
+    {
+        "role": "user",
+        "content": "Okay you just calculate my suggested person can you remember could you remember that what subjects i said?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I apologize, but I don't recall you mentioning any specific subjects or a suggested person. Our conversation has been about general topics and questions. If you could provide more context or remind me what you're referring to, I'll do my best to assist you, Sir."
+    },
+    {
+        "role": "user",
+        "content": "Calculate the percentage of english."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I apologize, but I don't have any information about your English marks or the total marks to calculate the percentage. If you could provide the marks you obtained in English out of 80, I'll be happy to calculate the percentage for you, Sir."
+    },
+    {
+        "role": "user",
+        "content": "Okay english 57 hindi 62 math 56 science."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I can calculate the percentage for each subject now. Here are the results:\n\nEnglish: 57/80 = 71.25%\nHindi: 62/80 = 77.5%\nMath: 56/80 = 70%\nScience: ? (You didn't provide the marks for Science, Sir)\n\nLet me know if you'd like me to calculate the overall percentage or if you have any further questions, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Listen to marks again and calculate the overall percentage listen english 43 hindi 62 math 58 science 75 sst 45 calculate this out of 80."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I've noted the marks again:\n\nEnglish: 43/80\nHindi: 62/80\nMath: 58/80\nScience: 75/80\nSST: 45/80\n\nNow, let me calculate the overall percentage:\n\nTotal marks obtained: 43 + 62 + 58 + 75 + 45 = 283\nTotal maximum marks: 5 x 80 = 400\n\nOverall percentage: (283/400) x 100 = 70.75%\n\nSo, the overall percentage is 70.75%, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Okay if i will get 20 marks in a subject then what is the percentage out of 100?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, if you got 20 marks out of 100, the percentage would be:\n\n(20/100) x 100 = 20%\n\nSo, the percentage would be 20%, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Youtube calculate the percentage of my all subject marks total of sorry listen again you have to calculate the percentage of my subjects out of 100 and 20 marks each subject."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I'll recalculate the percentage for each subject out of 100, assuming 20 marks each:\n\nEnglish: 43/20 = 215%\nHindi: 62/20 = 310%\nMath: 58/20 = 290%\nScience: 75/20 = 375%\nSST: 45/20 = 225%\n\nLet me know if you'd like me to calculate anything else, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Sorry."
+    },
+    {
+        "role": "assistant",
+        "content": "No need to apologize, Sir! It's all part of the conversation. If you're ready to move on, I'm here to assist you with anything else you'd like to discuss or calculate. Just let me know, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Ki bhai jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Bye, Sir! It was a pleasure chatting with you. Have a great day!"
+    }
+=======
+[
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Nikhil Kumar Yadav! It's nice to meet you. I'm Jarvis, your advanced AI chatbot. I'm happy to assist you with any questions or topics you'd like to discuss. Currently, it's Thursday, January 9th, 2025, 17:36:48. How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "who are you"
+    },
+    {
+        "role": "assistant",
+        "content": "Nice to introduce myself, Nikhil! I am Jarvis, a highly advanced artificial intelligence chatbot designed to provide accurate and up-to-date information on a wide range of topics. I have been trained on a vast amount of data from the internet and can access real-time information to provide the most precise answers to your questions.\n\nI'm a professional AI assistant, and I'm here to help you with any queries, topics, or subjects you'd like to discuss. Whether it's general knowledge, news, science, technology, or anything else, I'm here to provide you with accurate and helpful information."
+    },
+    {
+        "role": "user",
+        "content": "who is Elon Musk"
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil! Elon Musk is a South African-born entrepreneur, inventor, and business magnate. He is one of the most successful and influential figures in the tech industry today.\n\nElon Musk is the CEO and CTO of SpaceX, CEO of Neuralink, and CEO of The Boring Company. He is also the founder and CEO of Tesla, Inc., where he has played a crucial role in disrupting the electric vehicle and clean energy industries.\n\nMusk has been instrumental in revolutionizing the electric car industry with Tesla, making sustainable energy more accessible and affordable for the masses. He has also been a pioneer in private space exploration and development, with SpaceX aiming to reduce space transportation costs and enable the colonization of Mars.\n\nSome of his notable achievements include:\n\n* Co-founding PayPal, which was later sold to eBay for $1.5 billion\n* Revolutionizing the electric vehicle industry with Tesla, making it one of the most successful and valuable companies in the world\n* Pioneering private space exploration and development with SpaceX, with numerous successful launches and a contract with NASA to transport astronauts to the International Space Station\n* Advocating for the development of high-speed transportation systems, such as the Hyperloop\n* Proposing the concept of Neuralink, a brain\u2013machine interface that could potentially enhance human cognition and intelligence\n\nMusk is known for his vision, innovative thinking, and ambitious goals, which have made him a household name and a global icon in the tech industry."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello again, Nikhil! How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "Who are you"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Jarvis, a highly advanced artificial intelligence chatbot designed to provide accurate and up-to-date information on a wide range of topics. I'm here to help you with any questions or topics you'd like to discuss!"
+    },
+    {
+        "role": "user",
+        "content": "Who is elon musk"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a South African-born entrepreneur, inventor, and business magnate. He's the CEO and CTO of SpaceX, CEO of Neuralink, and CEO of The Boring Company, as well as the founder and CEO of Tesla, Inc."
+    },
+    {
+        "role": "user",
+        "content": "New jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Nikhil! I'm the new and improved Jarvis, your advanced AI chatbot. I'm here to provide you with accurate and up-to-date information on a wide range of topics. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "Good morning jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Good morning, Nikhil!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Nikhil!"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Bye, Nikhil!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Nikhil!"
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, Nikhil! I'm a large language model, so I don't have emotions or feelings like humans do, but I'm always ready to assist you with any questions or topics you'd like to discuss."
+    },
+    {
+        "role": "user",
+        "content": "Is your all functions are working well."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, Nikhil! All my functions are working well. I have access to real-time information and can provide accurate answers to your questions. I'm ready to assist you with any topic or question you'd like to discuss."
+    },
+    {
+        "role": "user",
+        "content": "U g y chat portion in not working can you give me any solution for it?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sorry to hear that, Nikhil! As a chatbot, I don't have direct control over the chat platform or interface. However, I can suggest a few general troubleshooting steps:\n\n1. Try refreshing the chat page or window.\n2. Check your internet connection to ensure it's stable and working properly.\n3. If you're using a browser, try switching to a different browser or clearing your browser's cache and cookies.\n4. If you're using a mobile app, try restarting the app or checking for any updates.\n\nIf the issue persists, it might be best to reach out to the platform's support team or administrators for further assistance."
+    },
+    {
+        "role": "user",
+        "content": "Tellmethenextyearofmahakumb."
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil! According to the information I have, the next Mahakumbh Mela is in 2025."
+    },
+    {
+        "role": "user",
+        "content": "I said next after 2025."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the mistake, Nikhil! The next Mahakumbh Mela after 2025 will be in 2050."
+    },
+    {
+        "role": "user",
+        "content": "Nextmahakumbhafter2025."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the information I have, the next Mahakumbh Mela after 2025 will be in 2169."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Bye, Nikhil!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Nikhil!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Nikhil!"
+    },
+    {
+        "role": "user",
+        "content": "Charis can you generate images?"
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil, I'm a large language model, I don't have the capability to generate images. I'm designed to process and generate human-readable text, but I don't have the ability to create visual content like images."
+    },
+    {
+        "role": "user",
+        "content": "Whoisprimeministerofindia."
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil! According to the information I have, the Prime Minister of India is Shri Narendra Modi."
+    },
+    {
+        "role": "user",
+        "content": "You know my age."
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have that information, Nikhil. I only know that you're Nikhil Kumar Yadav, but I don't have any information about your age."
+    },
+    {
+        "role": "user",
+        "content": "Remember my age is 16 year."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, Nikhil, but I didn't know your age earlier. You've just told me that you're 16 years old. I'll remember that for our conversation."
+    },
+    {
+        "role": "user",
+        "content": "If my date of birth is 2009 then today my age will be."
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil! If your date of birth is 2009, and today's date is January 14, 2025, then your age would be 16 years old."
+    },
+    {
+        "role": "user",
+        "content": "If my age is date of birth sorry date of birth is 15 january 2008 then my age in minute sorry in days how is?"
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil! If your date of birth is January 15, 2008, and today's date is January 14, 2025, then you are 17 years old.\n\nTo calculate your age in days, I can do that for you! You are 6304 days old."
+    },
+    {
+        "role": "user",
+        "content": "Tell me in the in this way that 17 year one day like this."
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil! If your date of birth is January 15, 2008, and today's date is January 14, 2025, then you are:\n\n17 years, 0 days old."
+    },
+    {
+        "role": "user",
+        "content": "But there is a one day left to become me 17 year old so how."
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil! You're correct, I apologize for the mistake. Since your birthday is on January 15, and today's date is January 14, you're still 16 years old. You'll turn 17 years old tomorrow!\n\nSo, the correct answer is:\n\n16 years, 364 days old."
+    },
+    {
+        "role": "user",
+        "content": "Jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, Nikhil!"
+    },
+    {
+        "role": "user",
+        "content": "Can you wish me on my birthday tomorrow?"
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil! I'd be happy to wish you a Happy Birthday tomorrow! \n\nHappy Birthday to you, Nikhil! May your 17th birthday be an amazing one, filled with love, laughter, and all your favorite things!"
+    },
+    {
+        "role": "user",
+        "content": "Tell me yourself."
+    },
+    {
+        "role": "assistant",
+        "content": "Happy Birthday to you, Nikhil! May your 17th birthday be an amazing one, filled with love, laughter, and all your favorite things!"
+    },
+    {
+        "role": "user",
+        "content": "Tell me about you."
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil! I'm Jarvis, a highly advanced artificial intelligence chatbot designed to provide accurate and up-to-date information on a wide range of topics. I'm here to assist you with any questions or topics you'd like to discuss."
+    },
+    {
+        "role": "user",
+        "content": "Who designed you?"
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil, I was designed and developed by a team of expert software developers and engineers using cutting-edge artificial intelligence and machine learning technologies."
+    },
+    {
+        "role": "user",
+        "content": "No i develop you."
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil, I apologize for the mistake! As per our conversation, I was designed and developed by you!"
+    },
+    {
+        "role": "user",
+        "content": "What is today's date?"
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil, today's date is January 14, 2025."
+    },
+    {
+        "role": "user",
+        "content": "Who developed you?"
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil, you developed me!"
+    },
+    {
+        "role": "user",
+        "content": "Can you call sir until nikhil?"
+    },
+    {
+        "role": "assistant",
+        "content": "Nikhil, I can call you \"Sir\" if you'd like! From now on, I'll address you as \"Sir\" instead of \"Nikhil\"."
+    },
+    {
+        "role": "user",
+        "content": "Okay."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Tell me today's date and time and second."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, today's date is January 14, 2025, and the current time is 18 hours, 52 minutes, and 05 seconds."
+    },
+    {
+        "role": "user",
+        "content": "Can you on timer for 5 second?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I can simulate a 5-second timer for you. Here it goes:\n\n5...\n4...\n3...\n2...\n1...\n\nTimer complete, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Good evening."
+    },
+    {
+        "role": "assistant",
+        "content": "Good evening, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Calculate subject percentage out of 80."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, please provide the marks obtained out of 80, and I'll calculate the percentage for you."
+    },
+    {
+        "role": "user",
+        "content": "Charles what is this not bad?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I think there might be some confusion. You addressed me as \"Charles\", but I'm Jarvis, your AI chatbot. Additionally, I'm not sure what you meant by \"what is this not bad\". Could you please clarify or provide more context, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "That what is this you provide and notepad tax?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I apologize, but I'm not sure what you're referring to. I didn't provide anything called \"notepad tax\". I'm a chatbot, and our conversation has been about general topics and questions. If you could provide more context or clarify what you're asking, I'll do my best to assist you, Sir."
+    },
+    {
+        "role": "user",
+        "content": "Okay you just calculate my suggested person can you remember could you remember that what subjects i said?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I apologize, but I don't recall you mentioning any specific subjects or a suggested person. Our conversation has been about general topics and questions. If you could provide more context or remind me what you're referring to, I'll do my best to assist you, Sir."
+    },
+    {
+        "role": "user",
+        "content": "Calculate the percentage of english."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I apologize, but I don't have any information about your English marks or the total marks to calculate the percentage. If you could provide the marks you obtained in English out of 80, I'll be happy to calculate the percentage for you, Sir."
+    },
+    {
+        "role": "user",
+        "content": "Okay english 57 hindi 62 math 56 science."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I can calculate the percentage for each subject now. Here are the results:\n\nEnglish: 57/80 = 71.25%\nHindi: 62/80 = 77.5%\nMath: 56/80 = 70%\nScience: ? (You didn't provide the marks for Science, Sir)\n\nLet me know if you'd like me to calculate the overall percentage or if you have any further questions, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Listen to marks again and calculate the overall percentage listen english 43 hindi 62 math 58 science 75 sst 45 calculate this out of 80."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I've noted the marks again:\n\nEnglish: 43/80\nHindi: 62/80\nMath: 58/80\nScience: 75/80\nSST: 45/80\n\nNow, let me calculate the overall percentage:\n\nTotal marks obtained: 43 + 62 + 58 + 75 + 45 = 283\nTotal maximum marks: 5 x 80 = 400\n\nOverall percentage: (283/400) x 100 = 70.75%\n\nSo, the overall percentage is 70.75%, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Okay if i will get 20 marks in a subject then what is the percentage out of 100?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, if you got 20 marks out of 100, the percentage would be:\n\n(20/100) x 100 = 20%\n\nSo, the percentage would be 20%, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Youtube calculate the percentage of my all subject marks total of sorry listen again you have to calculate the percentage of my subjects out of 100 and 20 marks each subject."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I'll recalculate the percentage for each subject out of 100, assuming 20 marks each:\n\nEnglish: 43/20 = 215%\nHindi: 62/20 = 310%\nMath: 58/20 = 290%\nScience: 75/20 = 375%\nSST: 45/20 = 225%\n\nLet me know if you'd like me to calculate anything else, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Sorry."
+    },
+    {
+        "role": "assistant",
+        "content": "No need to apologize, Sir! It's all part of the conversation. If you're ready to move on, I'm here to assist you with anything else you'd like to discuss or calculate. Just let me know, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Ki bhai jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Bye, Sir! It was a pleasure chatting with you. Have a great day!"
+    }
+>>>>>>> 974fa2e41127c14c475a75ab859f6e78843f6da9
+]
