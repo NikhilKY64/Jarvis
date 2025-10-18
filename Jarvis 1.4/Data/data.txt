@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 I'd be happy to help you with calculating subject percentages based on the data you have. However, I would need you to provide me with the data in order to do so.
 
 Here is an example of how the data might be organized in an Excel spreadsheet:
@@ -19,6 +20,28 @@ Please let me know if you have the data and if you need help with the calculatio
 
 Best regards,
 [Your Name]
+=======
+I'd be happy to help you with calculating subject percentages based on the data you have. However, I would need you to provide me with the data in order to do so.
+
+Here is an example of how the data might be organized in an Excel spreadsheet:
+
+| Subject | Mark | Total Maximum Marks |
+| --- | --- | --- |
+| Math | 85 | 100 |
+| English | 90 | 100 |
+| Science | 75 | 100 |
+
+With this data, you can use the formula =(B2/C2)\*100 to calculate the percentage for each subject, and then use the average function to calculate the overall grade.
+
+=AVERAGE(D2:Dx)
+
+Where D2:Dx is the range of cells containing the subject percentages.
+
+Please let me know if you have the data and if you need help with the calculations.
+
+Best regards,
+[Your Name]
+>>>>>>> 974fa2e41127c14c475a75ab859f6e78843f6da9
 =======
 I'd be happy to help you with calculating subject percentages based on the data you have. However, I would need you to provide me with the data in order to do so.
 
