@@ -1,7 +1,0 @@
-SpeechRecognition
-mtranslate
-PyAutoGUI
-pywhatkit
-requests
-bs4
-openai
